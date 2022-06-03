@@ -1,3 +1,3 @@
 # doter-webapp
 
-![Doter Text Editor](https://github.com/griffinryan/doter)
+[Doter Text Editor][https://github.com/griffinryan/doter]
